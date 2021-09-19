@@ -1,8 +1,8 @@
 Hi, I’m @kzlsahin
 
-- 👀 I’m especially interested in Rules as Code concept. I am also interested in game development and web based applications.
+- I’m especially interested in Rules as Code concept. I am also interested in game development and web based applications.
 
-- 🌱 I’m currently a MSc student in Computational Science and Engineering, and a civil servant at the Ministry of Transport and Infrastructure of Turkish Republic.
+- I’m currently a MSc student in Computational Science and Engineering, and a civil servant at the Ministry of Transport and Infrastructure of Turkish Republic.
 
 
 
