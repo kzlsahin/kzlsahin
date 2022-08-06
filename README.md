@@ -1,8 +1,7 @@
-Hi, I’m @kzlsahin
+Hi, I’m @kzlsahin, Naval Architect and Marine Engineer with extensive interest in computer science and computational science, working as a design engineer for a yacht design office. I like to hack problems and develop creative solutions.
 
-- I’m especially interested in Rules as Code concept. I am also interested in game development and web based applications.
+- I’m currently MSc student in Computational Science and Engineering,
 
-- I’m currently a MSc student in Computational Science and Engineering, and a civil servant at the Ministry of Transport and Infrastructure of Turkish Republic.
 
 
 
