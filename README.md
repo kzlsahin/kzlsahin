@@ -1,6 +1,6 @@
 Hi, I’m @kzlsahin, Software Developer and Naval Architect at Mesh Engineering & Software Co.
 
-- I’m studying on dynamical systems for MSc degree in Computational Science and Engineering,
+- I’m studying dynamical systems for MSc degree in Computational Science and Engineering,
 
 - I'm quite interested in Rules-As-Code studies, which I would like to study at academic level.
 
