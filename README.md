@@ -21,8 +21,8 @@ I followed my childhood dream and began my career as a design engineer. Having s
 
 
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=dirambora&color=red) 
+
 - 📫 senturkmus@gmail.com
 
 <!---
