@@ -23,7 +23,7 @@ ____
 > SIUnitsArithmetic defines metric system units and provides related arithmetic operations including unit to unit multiplication even with derived units of any combination of basic units, resulting in higher or lower order units (m², 1/m or m/s).
 
 #### Floating Point Control for Windows Presentation Forms
-[![NuGet Package Version](https://img.shields.io/nuget/v/FloatingPointControl?label=Latest%20Version)](https://www.nuget.org/packages/FloatingPointControl/)
+[![NuGet Package Version](https://img.shields.io/nuget/v/FloatingPointControl?label=Latest%20Version)](https://www.nuget.org/packages/FloatingPointControl/)[![NuGet Downloads](https://img.shields.io/nuget/dt/FloatingPointControl)](https://www.nuget.org/packages/FloatingPointControl/)
 
 > There is no built-in control for floating-point inputs in Windows Presentation Foundation (WPF). Using TextBox for managing floating-point inputs can be a challange for a developer. If all you need is a floating-point input with seamless WPF compatibility, this package is for you.
 
