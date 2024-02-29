@@ -3,21 +3,37 @@
 
 [@medium.com](https://medium.com/@senturkmus) | [@LinkedIn](https://www.linkedin.com/in/mustafa-senturk-ub9901/)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kzlsahin&hide=scss,css,javascript,html&layout=compact&theme=darcula)
+
 I followed my childhood dream and began my career as a design engineer. Having seen the problems facing the industry, I joined the civil service as a maritime specialist to help improve the shipbuilding and maritime industry and to gain a broader perspective of the industry. During my time in the Civil Service, I was overwhelmed by the problems that could be solved through the design and development of computational solutions, digital transformation, and the advancement of the rules-as-code concept. I studied Applied Mathematics & Computer Science. I enjoy design and development of unqiue solutions.
 
-
+___
 ## Publishes
 
 * Aybar, O.Ö., Şentürk, M., (2023), "Implementation of a triangular probabilistic distribution for optimal parameterization of the SEIR model recovery rates with delay". Chaos: an Interdisciplinary Journal of Nonlinear Science, [doi](https://doi.org/10.1063/5.0164226).
 
 * Şentürk, M., (2023), “How I Refactored a Monolithic Legacy Code Base into an Add-In Architecture”, Better Programming [->](https://bit.ly/3Pk0yk8)
 
+____
+## NuGet Packages
 
-![obirler's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kzlsahin&hide=scss,css,javascript,html&layout=compact&theme=darcula)
+#### SI Units library for dimensional arithmetic
+[![Package Version](https://img.shields.io/nuget/v/SIUnitsArithmetic?label=Latest%20Version)](https://www.nuget.org/packages/SIUnitsArithmetic/)[![NuGet Downloads](https://img.shields.io/nuget/dt/SIUnitsArithmetic)](https://www.nuget.org/packages/SIUnitsArithmetic/)
 
-![obirler's Stats](https://github-readme-stats.vercel.app/api?username=kzlsahin&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+> SIUnitsArithmetic defines metric system units and provides related arithmetic operations including unit to unit multiplication even with derived units of any combination of basic units, resulting in higher or lower order units (m², 1/m or m/s).
 
-![obirler's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kzlsahin&theme=darcula&hide_border=true)
+#### Floating Point Control for Windows Presentation Forms
+[![NuGet Package Version](https://img.shields.io/nuget/v/FloatingPointControl?label=Latest%20Version)](https://www.nuget.org/packages/FloatingPointControl/)
+
+> There is no built-in control for floating-point inputs in Windows Presentation Foundation (WPF). Using TextBox for managing floating-point inputs can be a challange for a developer. If all you need is a floating-point input with seamless WPF compatibility, this package is for you.
+
+
+_____
+
+
+![Git Stats](https://github-readme-stats.vercel.app/api?username=kzlsahin&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kzlsahin&theme=darcula&hide_border=true)
 
 
 
