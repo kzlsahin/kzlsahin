@@ -1,7 +1,7 @@
 # Mustafa Şentürk
 > Software Developer | MSc Computational Science | Naval Architect
 
-[![medium profile](https://img.shields.io/badge/medium-black?logo=medium)](https://medium.com/@senturkmus)  [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mustafa-senturk-ub9901/)
+[![medium profile](https://img.shields.io/badge/medium-black?logo=medium)](https://medium.com/@senturkmus)  [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mustafa-senturk-ub9901/)  [![Leetcode profile](https://img.shields.io/badge/LeetCode-444444?logo=leetcode)](https://leetcode.com/kzlsahin/)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kzlsahin&hide=scss,css,javascript,html&layout=compact&theme=darcula)
 
