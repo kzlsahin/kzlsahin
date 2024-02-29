@@ -9,10 +9,8 @@ I followed my childhood dream and began my career as a design engineer. Having s
 
 * Şentürk, M., (2023), “How I Refactored a Monolithic Legacy Code Base into an Add-In Architecture”, Better Programming [->](https://bit.ly/3Pk0yk8)
 
-  
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=dirambora&color=red) 
 
 ![obirler's Stats](https://github-readme-stats.vercel.app/api?username=kzlsahin&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
@@ -24,7 +22,7 @@ I followed my childhood dream and began my career as a design engineer. Having s
 
 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=dirambora&color=red) 
 - 📫 senturkmus@gmail.com
 
 <!---
