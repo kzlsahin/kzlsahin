@@ -39,7 +39,7 @@ _____
 
 
 
-- 📫 senturkmus@gmail.com
+📫 senturkmus@gmail.com
 
 <!---
 kzlsahin/kzlsahin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
