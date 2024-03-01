@@ -3,6 +3,9 @@
 
 [![medium profile](https://img.shields.io/badge/medium-black?logo=medium)](https://medium.com/@senturkmus)  [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mustafa-senturk-ub9901/)  [![Leetcode profile](https://img.shields.io/badge/LeetCode-444444?logo=leetcode)](https://leetcode.com/kzlsahin/)
 
+[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkzlsahin&logo=leetcode&logoColor=yellow)](https://leetcode.com/kzlsahin/)
+
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kzlsahin&hide=scss,css,javascript,html&layout=compact&theme=darcula)
 
 I followed my childhood dream and began my career as a design engineer. Having seen the problems facing the industry, I joined the civil service as a maritime specialist to help improve the shipbuilding and maritime industry and to gain a broader perspective of the industry. During my time in the Civil Service, I was overwhelmed by the problems that could be solved through the design and development of computational solutions, digital transformation, and the advancement of the rules-as-code concept. I studied Applied Mathematics & Computer Science. I enjoy design and development of unqiue solutions.
