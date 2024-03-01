@@ -1,9 +1,8 @@
 # Mustafa Şentürk
 > Software Developer | MSc Computational Science | Naval Architect
 
-[![medium profile](https://img.shields.io/badge/medium-black?logo=medium)](https://medium.com/@senturkmus)  [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mustafa-senturk-ub9901/)  [![Leetcode profile](https://img.shields.io/badge/LeetCode-444444?logo=leetcode)](https://leetcode.com/kzlsahin/)
-
-[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkzlsahin&logo=leetcode&logoColor=yellow)](https://leetcode.com/kzlsahin/)
+[![medium profile](https://img.shields.io/badge/medium-black?logo=medium)](https://medium.com/@senturkmus)  [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mustafa-senturk-ub9901/) 
+[![LeetCode user kzlsahin](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkzlsahin&logo=leetcode&logoColor=yellow)](https://leetcode.com/kzlsahin/)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kzlsahin&hide=scss,css,javascript,html&layout=compact&theme=darcula)
