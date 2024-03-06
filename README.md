@@ -33,12 +33,6 @@ ____
 _____
 
 
-![Git Stats](https://github-readme-stats.vercel.app/api?username=kzlsahin&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kzlsahin&theme=darcula&hide_border=true)
-
-
-
 📫 senturkmus@gmail.com
 
 <!---
