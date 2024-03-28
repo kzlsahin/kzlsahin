@@ -22,7 +22,7 @@ ____
 #### SI Units library for dimensional arithmetic
 [![Package Version](https://img.shields.io/nuget/v/SIUnitsArithmetic?label=Latest%20Version)](https://www.nuget.org/packages/SIUnitsArithmetic/)[![NuGet Downloads](https://img.shields.io/nuget/dt/SIUnitsArithmetic)](https://www.nuget.org/packages/SIUnitsArithmetic/)[![github repo](https://img.shields.io/badge/github_repo-8A2BE2)](https://github.com/kzlsahin/SiUnitsArithmetic)
 
-> SIUnitsArithmetic defines metric system units and provides related arithmetic operations including unit to unit multiplication even with derived units of any combination of basic units, resulting in higher or lower order units (m², 1/m or m/s).
+> SIUnitsArithmetic defines metric system units and provides related arithmetic operations, including unit-to-unit multiplication, even with derived units of any combination of base units, resulting in higher or lower order units (m², 1/m or m/s).
 
 #### Floating Point Control for Windows Presentation Forms
 [![NuGet Package Version](https://img.shields.io/nuget/v/FloatingPointControl?label=Latest%20Version)](https://www.nuget.org/packages/FloatingPointControl/)[![NuGet Downloads](https://img.shields.io/nuget/dt/FloatingPointControl)](https://www.nuget.org/packages/FloatingPointControl/)[![github repo](https://img.shields.io/badge/github_repo-8A2BE2)](https://github.com/kzlsahin/floating-point-controls)
