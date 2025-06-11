@@ -13,6 +13,8 @@ ___
 ## Publishes
 
 * Aybar, O.Ö., Şentürk, M., (2023), "Implementation of a triangular probabilistic distribution for optimal parameterization of the SEIR model recovery rates with delay". Chaos: an Interdisciplinary Journal of Nonlinear Science, [doi](https://doi.org/10.1063/5.0164226).
+____
+## Writings
 
 * Şentürk, M., (2023), “How I Refactored a Monolithic Legacy Code Base into an Add-In Architecture”, Better Programming [->](https://bit.ly/3Pk0yk8)
 
