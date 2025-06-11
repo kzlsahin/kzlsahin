@@ -16,8 +16,13 @@ ___
 ____
 ## Writings
 
-* Şentürk, M., (2023), “How I Refactored a Monolithic Legacy Code Base into an Add-In Architecture”, Better Programming [->](https://bit.ly/3Pk0yk8)
+* “How I Refactored a Monolithic Legacy Code Base into an Add-In Architecture”, Better Programming [->](https://bit.ly/3Pk0yk8)
 
+* “Precision in Code Crafting: A Journey to Better Programming”, Operations Research Bit [->](https://medium.com/operations-research-bit/precision-in-code-crafting-a-journey-to-better-programming-c168dac765e1)
+
+* “DRY may be more than what you think it is”, Level Up Coding [->](https://medium.com/gitconnected/dry-may-be-more-than-what-you-think-it-is-9834725ffec3)
+
+* “Inheritance vs Composition in OOP: to Inherit or not to Inherit”, Level Up Coding [->](https://medium.com/gitconnected/inheritance-vs-composition-in-oop-to-inherit-or-not-to-inherit-da4e5c569d04)
 ____
 ## NuGet Packages
 
