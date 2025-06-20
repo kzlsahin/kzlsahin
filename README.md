@@ -7,8 +7,11 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kzlsahin&hide=scss,css,javascript,html&layout=compact&theme=darcula)
 
-I followed my childhood dream and began my career as a design engineer. Having seen the problems facing the industry, I joined the civil service as a maritime specialist to help improve the shipbuilding and maritime industry and to gain a broader perspective of the industry. During my time in the Civil Service, I was overwhelmed by the problems that could be solved through the design and development of computational solutions, digital transformation, and the advancement of the rules-as-code concept. I studied Applied Mathematics & Computer Science. I enjoy design and development of unqiue solutions.
+Despite how it is called, Naval Architecture is an engineering discipline with strong foundations in physics, mathematics and materials science focused on design and construction of marine vessels. And that is where I came from.
 
+I've always had a strong desire to create and innovate. I realized that software development offered a much broader platform for me to do just that. The dynamic nature of the field, the ability to build complex systems from the ground up, and the constant evolution of technology really attracted me. I saw software development as an opportunity to apply my problem-solving skills and design thinking in a more impactful way.
+
+While I value my experience in naval architecture, I'm excited to pursue my passion for software development, where I can innovate and contribute to shaping the digital world.
 ___
 ## Publishes
 
