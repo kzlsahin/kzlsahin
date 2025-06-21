@@ -11,7 +11,10 @@ Despite how it is called, Naval Architecture is an engineering discipline with s
 
 I've always had a strong desire to create and innovate. I realized that software development offered a much broader platform for me to do just that. The dynamic nature of the field, the ability to build complex systems from the ground up, and the constant evolution of technology really attracted me. I saw software development as an opportunity to apply my problem-solving skills and design thinking in a more impactful way.
 
+I really enjoy studying Computer Science and philosophy of software development. It is amazing to witness the emergence of such impressive systems above layers of abstractions, from logic circuits to networks.
+
 While I value my experience in naval architecture, I'm excited to pursue my passion for software development, where I can innovate and contribute to shaping the digital world.
+
 ___
 ## Publishes
 
